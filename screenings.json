@@ -1,237 +1,6 @@
 {
-  "generated_at": "2026-10-27T15:07:25.880801+00:00",
+  "generated_at": "2026-10-28T15:43:29.702475+00:00",
   "screenings": [
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "10:45",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "女性の休日〈1週間限定再上映〉",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/8695/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "11:15",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "12:35",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "13:15",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "14:20",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "審判 4Kレストア版",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9906/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "15:10",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "16:35",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "ブロークン・ヴォイス Broken Voices",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9734/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "17:15",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "18:40",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "19:00",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "20:40",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "10:45",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000984"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "11:25",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "魂のきせき",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "13:15",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "魂のきせき",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "13:30",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "ナギダイアリー",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000981"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "15:20",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "魂のきせき",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "15:45",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000984"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "17:25",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "ナギダイアリー",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000981"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "18:10",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "魂のきせき",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "19:40",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "もしもの愛",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001019"
-    },
-    {
-      "starts_on": "2026-10-28",
-      "starts_at": "20:15",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "逃亡者狂騒曲 デジタル・リマスター版",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001015"
-    },
     {
       "starts_on": "2026-10-29",
       "starts_at": "10:45",
@@ -565,6 +334,17 @@
     {
       "starts_on": "2026-10-30",
       "starts_at": "19:00",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "NAZA ナザ",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
+    },
+    {
+      "starts_on": "2026-10-30",
+      "starts_at": "20:40",
       "theater_slug": "image-forum",
       "theater_name": "シアター・イメージフォーラム",
       "movie_title": "NAZA ナザ",
@@ -1876,7 +1656,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/35LGDJy0WWukDqek4xGzFGfwOaV.jpg",
       "detail_director_name": "Shigeru Kobayashi",
       "director_biography": null,
-      "director_known_for": "[\"チョコラ！ (2009)\", \"こどものそら (2000)\", \"ちょっと青空 (2001)\", \"風の波紋 (2015)\", \"わたしの季節 (2005)\"]",
+      "director_known_for": "[\"チョコラ！ (2009)\", \"こどものそら (2000)\", \"風の波紋 (2015)\", \"ちょっと青空 (2001)\", \"わたしの季節 (2005)\"]",
       "director_source_url": "https://www.themoviedb.org/person/1793071"
     },
     {
@@ -1906,7 +1686,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/hGUnENS15d3Ve5W9TQY5ZdP2O18.jpg",
       "detail_director_name": "イ・チャンドン",
       "director_biography": "Lee Chang-dong (born July 4, 1954) is a South Korean film director, screenwriter and novelist. He won the 2008 Special Director's Prize at the Asian Film Awards and has been nominated for the Golden Lion and Palme d'Or. Lee served as the minister of Culture and Tourism in the South Korean Government from 2003 to 2004.\n\nDescription above from the Wikipedia article Lee Chang-dong, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
-      "director_known_for": "[\"バーニング 劇場版 (2018)\", \"ペパーミント・キャンディー (2000)\", \"ポエトリー アグネスの詩 (2010)\", \"オアシス (2002)\", \"シークレット・サンシャイン (2007)\"]",
+      "director_known_for": "[\"バーニング 劇場版 (2018)\", \"ポエトリー アグネスの詩 (2010)\", \"ペパーミント・キャンディー (2000)\", \"シークレット・サンシャイン (2007)\", \"オアシス (2002)\"]",
       "director_source_url": "https://www.themoviedb.org/person/96657"
     },
     {
