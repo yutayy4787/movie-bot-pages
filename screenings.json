@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-11-03T16:50:29.313226+00:00",
+  "generated_at": "2026-11-04T16:50:33.623590+00:00",
   "screenings": [
     {
-      "starts_on": "2026-11-04",
-      "starts_at": "12:10",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "ユースフル・ゴースト",
-      "feature_title": "名画座2本立て",
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&title=13550-0&date=20261104&start=1210",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1355000.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "14:35",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "GOOD BOY/グッド・ボーイ",
-      "feature_title": "名画座2本立て",
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13549-0&early=0&date=20261104&start=1435",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1354900.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "16:05",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "ユースフル・ゴースト",
-      "feature_title": "名画座2本立て",
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261104&start=1605&early=0&title=13550-0",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1355000.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "18:30",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "GOOD BOY/グッド・ボーイ",
-      "feature_title": "名画座2本立て",
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261104&start=1830&title=13549-0&early=0",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1354900.html"
-    },
-    {
       "starts_on": "2026-11-05",
       "starts_at": "12:10",
       "theater_slug": "cineka-omori",
@@ -53,7 +9,7 @@
       "movie_title": "ユースフル・ゴースト",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?start=1210&date=20261105&early=0&title=13550-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13550-0&start=1210&early=0&date=20261105",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1355000.html"
     },
     {
@@ -64,7 +20,7 @@
       "movie_title": "GOOD BOY/グッド・ボーイ",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&title=13549-0&start=1435&date=20261105",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261105&early=0&start=1435&title=13549-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1354900.html"
     },
     {
@@ -75,7 +31,7 @@
       "movie_title": "ユースフル・ゴースト",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?start=1605&date=20261105&early=0&title=13550-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?start=1605&title=13550-0&early=0&date=20261105",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1355000.html"
     },
     {
@@ -86,7 +42,7 @@
       "movie_title": "GOOD BOY/グッド・ボーイ",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261105&start=1830&early=0&title=13549-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&date=20261105&title=13549-0&start=1830",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1354900.html"
     },
     {
@@ -97,7 +53,7 @@
       "movie_title": "ユマカウンティの行き止まり",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?start=1220&date=20261106&title=13619-0&early=0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261106&early=0&start=1220&title=13619-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1361900.html"
     },
     {
@@ -108,7 +64,7 @@
       "movie_title": "ファーゴ 4K",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261106&start=1405&title=13620-0&early=0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&date=20261106&title=13620-0&start=1405",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1362000.html"
     },
     {
@@ -119,7 +75,7 @@
       "movie_title": "ユマカウンティの行き止まり",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&title=13619-0&start=1600&date=20261106",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261106&early=0&start=1600&title=13619-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1361900.html"
     },
     {
@@ -130,7 +86,7 @@
       "movie_title": "ファーゴ 4K",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&title=13620-0&start=1745&date=20261106",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13620-0&start=1745&early=0&date=20261106",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1362000.html"
     },
     {
@@ -141,7 +97,7 @@
       "movie_title": "ユマカウンティの行き止まり",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?start=1130&title=13619-0&early=0&date=20261107",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1361900.html"
     },
     {
@@ -152,7 +108,7 @@
       "movie_title": "ファーゴ 4K",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13620-0&start=1315&early=0&date=20261107",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1362000.html"
     },
     {
@@ -163,7 +119,7 @@
       "movie_title": "ユマカウンティの行き止まり",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?start=1510&title=13619-0&date=20261107&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1361900.html"
     },
     {
@@ -174,7 +130,7 @@
       "movie_title": "ファーゴ 4K",
       "feature_title": "名画座2本立て",
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13620-0&start=1655&date=20261107&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1362000.html"
     },
     {
@@ -398,7 +354,7 @@
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1362000.html"
     },
     {
-      "starts_on": "2026-11-04",
+      "starts_on": "2026-11-05",
       "starts_at": "10:20",
       "theater_slug": "le-cinema-shibuya-miyashita",
       "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
@@ -409,7 +365,7 @@
       "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
-      "starts_on": "2026-11-04",
+      "starts_on": "2026-11-05",
       "starts_at": "10:50",
       "theater_slug": "le-cinema-shibuya-miyashita",
       "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
@@ -420,7 +376,7 @@
       "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
-      "starts_on": "2026-11-04",
+      "starts_on": "2026-11-05",
       "starts_at": "13:00",
       "theater_slug": "le-cinema-shibuya-miyashita",
       "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
@@ -431,7 +387,7 @@
       "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
-      "starts_on": "2026-11-04",
+      "starts_on": "2026-11-05",
       "starts_at": "13:30",
       "theater_slug": "le-cinema-shibuya-miyashita",
       "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
@@ -442,479 +398,6 @@
       "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
-      "starts_on": "2026-11-04",
-      "starts_at": "15:30",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "Blue Heron／ブルーヘロン",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "16:00",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "トリコロール/赤の愛＜キェシロフスキ没後30年＞",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "17:30",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "ポンペイ、雲の下に生きる",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "18:30",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "トリコロール/青の愛＜キェシロフスキ没後30年＞",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "19:45",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "Blue Heron／ブルーヘロン",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "09:30",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "踊る大捜査線 N.E.W.メトロポリスを駆け抜",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13470-0&early=0&start=0930&date=20261104",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1347000.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "09:45",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "影を売る女",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261104&start=0945&title=13451-0&early=0",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "10:00",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "モネと時間旅行",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1000&date=20261104&title=13427-0&early=0",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1342700.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "11:45",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "ゴジラ－0.0",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&title=13401-0&start=1145&date=20261104",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "12:25",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "もしもの愛",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13559-0&early=0&date=20261104&start=1225",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1355900.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "14:20",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "ゴジラ－0.0",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?start=1420&date=20261104&title=13401-0&early=0",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "15:30",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "影を売る女",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&title=13451-0&start=1530&date=20261104",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "16:55",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "ゴジラ－0.0",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261104&start=1655&title=13401-0&early=0",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "17:40",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "影を売る女",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&title=13451-0&start=1740&date=20261104",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "19:30",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "ゴジラ－0.0",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&title=13401-0&start=1930&date=20261104",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "19:45",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "ソウ 4K",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1945&date=20261104&title=13446-0&early=0",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1344600.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "20:05",
-      "theater_slug": "cineka-omori",
-      "theater_name": "キネカ大森",
-      "movie_title": "映画ちいかわ 人魚の島のひみつ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13275-0&early=0&start=2005&date=20261104",
-      "source_url": "https://www.ttcg.jp/cineka_omori/movie/1327500.html"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "10:45",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "11:10",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "12:35",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "13:00",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "14:45",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "15:00",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "チュルヒャー兄弟 ミニアチュールの詩学「動物三部作」 The Zürcher Brothers' Animal Trilogy",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9944/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "16:45",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "17:15",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "チュルヒャー兄弟 ミニアチュールの詩学「動物三部作」 The Zürcher Brothers' Animal Trilogy",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9944/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "18:30",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "NAZA ナザ",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "19:30",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "チュルヒャー兄弟 ミニアチュールの詩学「動物三部作」 The Zürcher Brothers' Animal Trilogy",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9944/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "20:15",
-      "theater_slug": "image-forum",
-      "theater_name": "シアター・イメージフォーラム",
-      "movie_title": "鳥を導く",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://imageforum.sboticket.net/",
-      "source_url": "https://www.imageforum.co.jp/theatre/movies/9938/"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "10:00",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000984"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "10:35",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "魂のきせき",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "12:30",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "京都ALS患者嘱託殺人事件",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "12:40",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "魂のきせき",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "14:35",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "京都ALS患者嘱託殺人事件",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "14:45",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000984"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "16:40",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "魂のきせき",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "17:15",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "ナギダイアリー",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000981"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "18:45",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "京都ALS患者嘱託殺人事件",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "19:30",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "もしもの愛",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001019"
-    },
-    {
-      "starts_on": "2026-11-04",
-      "starts_at": "21:10",
-      "theater_slug": "eurospace",
-      "theater_name": "ユーロスペース",
-      "movie_title": "逃亡者狂騒曲 デジタル・リマスター版",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
-      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001015"
-    },
-    {
-      "starts_on": "2026-11-05",
-      "starts_at": "10:20",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "モネと時間旅行",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
-    },
-    {
-      "starts_on": "2026-11-05",
-      "starts_at": "10:50",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "Blue Heron／ブルーヘロン",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
-    },
-    {
-      "starts_on": "2026-11-05",
-      "starts_at": "13:00",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "The Ozu Diaries／小津ダイアリー",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
-    },
-    {
-      "starts_on": "2026-11-05",
-      "starts_at": "13:30",
-      "theater_slug": "le-cinema-shibuya-miyashita",
-      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
-      "movie_title": "Blue Heron／ブルーヘロン",
-      "feature_title": null,
-      "feature_url": null,
-      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
-    },
-    {
       "starts_on": "2026-11-05",
       "starts_at": "15:30",
       "theater_slug": "le-cinema-shibuya-miyashita",
@@ -923,7 +406,7 @@
       "feature_title": null,
       "feature_url": null,
       "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
+      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
       "starts_on": "2026-11-05",
@@ -934,7 +417,7 @@
       "feature_title": null,
       "feature_url": null,
       "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
+      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
       "starts_on": "2026-11-05",
@@ -945,7 +428,7 @@
       "feature_title": null,
       "feature_url": null,
       "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
+      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
       "starts_on": "2026-11-05",
@@ -956,7 +439,7 @@
       "feature_title": null,
       "feature_url": null,
       "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
+      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
       "starts_on": "2026-11-05",
@@ -967,7 +450,7 @@
       "feature_title": null,
       "feature_url": null,
       "ticket_url": "https://my.bunkamura.co.jp/ticket/",
-      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261105"
+      "source_url": "https://my.bunkamura.co.jp/ticket/programDetailCinema/index/5025"
     },
     {
       "starts_on": "2026-11-05",
@@ -977,7 +460,7 @@
       "movie_title": "踊る大捜査線 N.E.W.メトロポリスを駆け抜",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&title=13470-0&start=0930&date=20261105",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261105&early=0&title=13470-0&start=0930",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1347000.html"
     },
     {
@@ -988,7 +471,7 @@
       "movie_title": "影を売る女",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?start=0945&date=20261105&title=13451-0&early=0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261105&early=0&start=0945&title=13451-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
     },
     {
@@ -999,7 +482,7 @@
       "movie_title": "モネと時間旅行",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&title=13427-0&start=1000&date=20261105",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?date=20261105&early=0&title=13427-0&start=1000",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1342700.html"
     },
     {
@@ -1010,7 +493,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?title=13401-0&early=0&start=1145&date=20261105",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261105&early=0&start=1145&title=13401-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1021,7 +504,7 @@
       "movie_title": "もしもの愛",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?date=20261105&start=1225&early=0&title=13559-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13559-0&start=1225&date=20261105&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1355900.html"
     },
     {
@@ -1032,7 +515,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&title=13401-0&date=20261105&start=1420",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?title=13401-0&start=1420&early=0&date=20261105",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1043,7 +526,7 @@
       "movie_title": "影を売る女",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13451-0&early=0&start=1530&date=20261105",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13451-0&start=1530&date=20261105&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
     },
     {
@@ -1054,7 +537,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261105&start=1655&early=0&title=13401-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?title=13401-0&start=1655&date=20261105&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1065,7 +548,7 @@
       "movie_title": "影を売る女",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13451-0&early=0&date=20261105&start=1740",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1740&title=13451-0&early=0&date=20261105",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
     },
     {
@@ -1076,7 +559,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&title=13401-0&start=1930&date=20261105",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?title=13401-0&start=1930&date=20261105&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1087,7 +570,7 @@
       "movie_title": "ソウ 4K",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1945&date=20261105&early=0&title=13446-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13446-0&start=1945&date=20261105&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1344600.html"
     },
     {
@@ -1098,7 +581,7 @@
       "movie_title": "映画ちいかわ 人魚の島のひみつ",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&title=13275-0&date=20261105&start=2005",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13275-0&start=2005&date=20261105&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1327500.html"
     },
     {
@@ -1450,7 +933,7 @@
       "movie_title": "映画ちいかわ 人魚の島のひみつ",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&title=13275-0&start=0945&date=20261106",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?title=13275-0&start=0945&date=20261106&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1327500.html"
     },
     {
@@ -1461,7 +944,7 @@
       "movie_title": "踊る大捜査線 N.E.W.メトロポリスを駆け抜",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1000&date=20261106&early=0&title=13470-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1000&title=13470-0&early=0&date=20261106",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1347000.html"
     },
     {
@@ -1472,7 +955,7 @@
       "movie_title": "メモリィズ",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?title=13641-0&early=0&start=1015&date=20261106",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261106&early=0&start=1015&title=13641-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1364100.html"
     },
     {
@@ -1483,7 +966,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261106&start=1145&early=0&title=13401-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?start=1145&title=13401-0&early=0&date=20261106",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1494,7 +977,7 @@
       "movie_title": "影を売る女",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?date=20261106&start=1245&title=13451-0&early=0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?date=20261106&early=0&title=13451-0&start=1245",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
     },
     {
@@ -1505,7 +988,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261106&start=1425&early=0&title=13401-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?date=20261106&early=0&start=1425&title=13401-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1516,7 +999,7 @@
       "movie_title": "影を売る女",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1445&date=20261106&early=0&title=13451-0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1445&title=13451-0&early=0&date=20261106",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
     },
     {
@@ -1527,7 +1010,7 @@
       "movie_title": "ブゴニア",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&title=13586-0&date=20261106&start=1645",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13586-0&start=1645&date=20261106&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1358600.html"
     },
     {
@@ -1538,7 +1021,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&title=13401-0&start=1700&date=20261106",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&date=20261106&title=13401-0&start=1700",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1549,7 +1032,7 @@
       "movie_title": "地球を守れ！ 4Kレストア版",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?title=13572-0&early=0&start=1920&date=20261106",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1920&title=13572-0&date=20261106&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1357200.html"
     },
     {
@@ -1560,7 +1043,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?start=1935&date=20261106&title=13401-0&early=0",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?title=13401-0&start=1935&date=20261106&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1571,7 +1054,7 @@
       "movie_title": "ソウ 4K",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&title=13446-0&start=1950&date=20261106",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?early=0&date=20261106&title=13446-0&start=1950",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1344600.html"
     },
     {
@@ -1818,13 +1301,112 @@
     },
     {
       "starts_on": "2026-11-07",
+      "starts_at": "10:20",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "モネと時間旅行",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "10:50",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "Blue Heron／ブルーヘロン",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "13:00",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "トリコロール/青の愛＜キェシロフスキ没後30年＞",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "13:30",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "Blue Heron／ブルーヘロン",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "15:15",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "トリコロール/赤の愛＜キェシロフスキ没後30年＞",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "15:30",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "Blue Heron／ブルーヘロン",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "17:30",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "ポンペイ、雲の下に生きる",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "18:30",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "The Ozu Diaries／小津ダイアリー",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
+      "starts_at": "19:45",
+      "theater_slug": "le-cinema-shibuya-miyashita",
+      "theater_name": "Bunkamuraル・シネマ 渋谷宮下",
+      "movie_title": "Blue Heron／ブルーヘロン",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://my.bunkamura.co.jp/ticket/",
+      "source_url": "https://my.bunkamura.co.jp/ticket/ProgramDetailCinema/calclick/20261107"
+    },
+    {
+      "starts_on": "2026-11-07",
       "starts_at": "09:30",
       "theater_slug": "cineka-omori",
       "theater_name": "キネカ大森",
       "movie_title": "映画ちいかわ 人魚の島のひみつ",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?start=0930&title=13275-0&date=20261107&early=0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1327500.html"
     },
     {
@@ -1835,7 +1417,7 @@
       "movie_title": "影を売る女",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?early=0&date=20261107&start=0945&title=13451-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
     },
     {
@@ -1846,7 +1428,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&date=20261107&title=13401-0&start=1015",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1857,7 +1439,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?start=1250&title=13401-0&early=0&date=20261107",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1868,7 +1450,7 @@
       "movie_title": "地球を守れ！ 4Kレストア版",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&date=20261107&title=13572-0&start=1525",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1357200.html"
     },
     {
@@ -1879,7 +1461,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?title=13401-0&start=1700&early=0&date=20261107",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1890,7 +1472,7 @@
       "movie_title": "メモリィズ",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&date=20261107&start=1750&title=13641-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1364100.html"
     },
     {
@@ -1901,7 +1483,7 @@
       "movie_title": "踊る大捜査線 N.E.W.メトロポリスを駆け抜",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/3/select_seat_pre?date=20261107&early=0&start=1855&title=13470-0",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1347000.html"
     },
     {
@@ -1912,7 +1494,7 @@
       "movie_title": "ゴジラ－0.0",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/1/select_seat_pre?start=1935&title=13401-0&early=0&date=20261107",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
     },
     {
@@ -1923,7 +1505,7 @@
       "movie_title": "影を売る女",
       "feature_title": null,
       "feature_url": null,
-      "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
+      "ticket_url": "https://ttcg-omori.cineticket.jp/theater/om/screen/2/select_seat_pre?early=0&date=20261107&title=13451-0&start=1950",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1345100.html"
     },
     {
@@ -2310,6 +1892,127 @@
       "feature_url": null,
       "ticket_url": "https://www.ttcg.jp/cineka_omori/#top-schedule",
       "source_url": "https://www.ttcg.jp/cineka_omori/movie/1340100.html"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "10:40",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "日曜日の散歩者 わすれられた台湾詩人たち トークイベント付き凱旋上映",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/2484/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "10:50",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "カンダハール KANDAHAR",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/10035/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "12:50",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "NAZA ナザ",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "13:45",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "14:35",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "日本前衛派の開拓者 JAPANESE AVANT-GARDE PIONEERS",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9956/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "15:35",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "チュルヒャー兄弟 ミニアチュールの詩学「動物三部作」 The Zürcher Brothers' Animal Trilogy",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9944/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "16:45",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "カンダハール KANDAHAR",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/10035/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "17:50",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "チュルヒャー兄弟 ミニアチュールの詩学「動物三部作」 The Zürcher Brothers' Animal Trilogy",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9944/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "18:45",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "NAZA ナザ",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "20:00",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "日本前衛派の開拓者 JAPANESE AVANT-GARDE PIONEERS",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9956/"
+    },
+    {
+      "starts_on": "2026-11-08",
+      "starts_at": "20:20",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "鳥を導く",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9938/"
     },
     {
       "starts_on": "2026-11-08",
@@ -3060,6 +2763,138 @@
       "source_url": "https://www.imageforum.co.jp/theatre/movies/9938/"
     },
     {
+      "starts_on": "2026-11-10",
+      "starts_at": "09:50",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000984"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "10:25",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "魂のきせき",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "12:20",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "京都ALS患者嘱託殺人事件",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "12:30",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "映画監督 篠田正浩 レトロスペクティブ ユーロスペース篇",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001020"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "14:15",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "京都ALS患者嘱託殺人事件",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "14:35",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "映画監督 篠田正浩 レトロスペクティブ ユーロスペース篇",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001020"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "16:15",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "マミー",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001030"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "16:25",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "魂のきせき",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "18:25",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "魂のきせき",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "18:35",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "京都ALS患者嘱託殺人事件",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "20:25",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "ナギダイアリー",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000981"
+    },
+    {
+      "starts_on": "2026-11-10",
+      "starts_at": "21:05",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "逃亡者狂騒曲 デジタル・リマスター版",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001015"
+    },
+    {
       "starts_on": "2026-11-11",
       "starts_at": "09:45",
       "theater_slug": "cineka-omori",
@@ -3313,6 +3148,127 @@
       "source_url": "https://www.imageforum.co.jp/theatre/movies/9938/"
     },
     {
+      "starts_on": "2026-11-11",
+      "starts_at": "10:00",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=000984"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "10:15",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "魂のきせき",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "12:20",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "京都ALS患者嘱託殺人事件",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "12:30",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "映画監督 篠田正浩 レトロスペクティブ ユーロスペース篇",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001020"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "14:25",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "京都ALS患者嘱託殺人事件",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "15:00",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "映画監督 篠田正浩 レトロスペクティブ ユーロスペース篇",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001020"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "16:25",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "マミー",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001030"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "17:05",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "魂のきせき",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001009"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "18:45",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "京都ALS患者嘱託殺人事件",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001011"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "19:30",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "『つむぐもの』公開10周年記念上映＆トークイベント",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001024"
+    },
+    {
+      "starts_on": "2026-11-11",
+      "starts_at": "20:45",
+      "theater_slug": "eurospace",
+      "theater_name": "ユーロスペース",
+      "movie_title": "逃亡者狂騒曲 デジタル・リマスター版",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://eurospace.cineticket.jp/theater/shibuya/schedule",
+      "source_url": "http://www.eurospace.co.jp/works/detail.php?w_id=001015"
+    },
+    {
       "starts_on": "2026-11-12",
       "starts_at": "09:45",
       "theater_slug": "cineka-omori",
@@ -3556,6 +3512,127 @@
     },
     {
       "starts_on": "2026-11-12",
+      "starts_at": "20:20",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "鳥を導く",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9938/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "10:40",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "日曜日の散歩者 わすれられた台湾詩人たち トークイベント付き凱旋上映",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/2484/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "11:00",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "カンダハール KANDAHAR",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/10035/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "12:50",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "NAZA ナザ",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "13:45",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "プーチンの愛国教室 Mr.Nobody Against Putin",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9731/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "14:35",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "日本前衛派の開拓者 JAPANESE AVANT-GARDE PIONEERS",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9956/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "15:35",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "チュルヒャー兄弟 ミニアチュールの詩学「動物三部作」 The Zürcher Brothers' Animal Trilogy",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9944/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "16:45",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "カンダハール KANDAHAR",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/10035/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "17:50",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "チュルヒャー兄弟 ミニアチュールの詩学「動物三部作」 The Zürcher Brothers' Animal Trilogy",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9944/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "18:35",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "NAZA ナザ",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9927/"
+    },
+    {
+      "starts_on": "2026-11-13",
+      "starts_at": "20:00",
+      "theater_slug": "image-forum",
+      "theater_name": "シアター・イメージフォーラム",
+      "movie_title": "日本前衛派の開拓者 JAPANESE AVANT-GARDE PIONEERS",
+      "feature_title": null,
+      "feature_url": null,
+      "ticket_url": "https://imageforum.sboticket.net/",
+      "source_url": "https://www.imageforum.co.jp/theatre/movies/9956/"
+    },
+    {
+      "starts_on": "2026-11-13",
       "starts_at": "20:20",
       "theater_slug": "image-forum",
       "theater_name": "シアター・イメージフォーラム",
@@ -3579,7 +3656,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/rTCVxe0GjsCU9p4lhhv5fNzS9C3.jpg",
       "detail_director_name": "セドリック・クラピッシュ",
       "director_biography": "仏ヌイイ＝シュル＝セーヌ出身。ニューヨーク大学で映画製作を学ぶ。1985年にフランスに帰国し、レオス・カラックス監督作「汚れた血」の照明スタッフなどを担当。長編映画の初監督作「百貨店大百科」（92）でセザール賞にノミネートされ、「青春シンドローム」（94）に続く長編第3作「猫が行方不明」（96）でベルリン国際映画祭の映画批評家協会賞を受賞。同作で一躍国際的な人気監督となり、その後は“青春3部作”と呼ばれる「スパニッシュ・アパートメント」（01）、「ロシアン・ドールズ」（05）、「ニューヨークの巴里夫（パリジャン）」（13）を撮り上げた。近年の監督作にヒューマンドラマ「おかえり、ブルゴーニュへ」（17）、ラブストーリー「パリのどこかで、あなたと」（19）など。",
-      "director_known_for": "[\"ロシアン・ドールズ (2005)\", \"ニューヨークの巴里夫 (2013)\", \"おかえり、ブルゴーニュへ (2017)\", \"スパニッシュ・アパートメント (2002)\", \"パリのどこかで、あなたと (2019)\"]",
+      "director_known_for": "[\"スパニッシュ・アパートメント (2002)\", \"ロシアン・ドールズ (2005)\", \"おかえり、ブルゴーニュへ (2017)\", \"パリのどこかで、あなたと (2019)\", \"ニューヨークの巴里夫 (2013)\"]",
       "director_source_url": "https://www.themoviedb.org/person/17520"
     },
     {
@@ -3594,7 +3671,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/paHhnxAaquGELtqtzdYQfR281Kb.jpg",
       "detail_director_name": "Sophy Romvari",
       "director_biography": "Sophy Romvari (born October 20, 1990) is a Canadian film director, writer, and actress.  After attracting considerable attention online for her short film work, particularly the award-winning Still Processing (2020), Romvari won widespread critical acclaim and numerous accolades for her feature-length film debut Blue Heron (2025). A collection of Romvari's short films, including Still Processing, was released by The Criterion Collection on their streaming platform in 2022.",
-      "director_known_for": "[\"Aos Sí (2017)\", \"Pumpkin Movie (2017)\", \"Norman Norman (2018)\", \"Nine Behind (2016)\", \"Still Processing (2021)\"]",
+      "director_known_for": "[\"Aos Sí (2017)\", \"Norman Norman (2018)\", \"Still Processing (2021)\", \"Nine Behind (2016)\", \"Pumpkin Movie (2017)\"]",
       "director_source_url": "https://www.themoviedb.org/person/1703613"
     },
     {
@@ -3609,11 +3686,26 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/hNfmTq2zaU03gHlg6tBZWcMVcci.jpg",
       "detail_director_name": "Daniel Raim",
       "director_biography": "Academy Award-nominated filmmaker Daniel Raim attended the American Film Institute in Los Angeles. Raim is known for his documentaries about overlooked artists of Hollywood's Golden Age, including \"The Man on Lincoln's Nose\" nominated for the 2001 Academy Award® for Best Documentary Short Subject. Raim's 2015 doc \"Harold and Lillian A Hollywood Love Story\" (a New York Times Critic's Pick) premiered as an Official Selection of the Cannes Film Festival and was nominated for The Golden Eye (L’Œil d'or, le prix du documentaire - Cannes). In addition to his theatrical films, Daniel has written, produced, and directed 28 original documentaries for the Criterion Collection about cinema masters, including John Cassavetes, Buster Keaton, Alfred Hitchcock, Andrei Tarkovsky, Hou Hsiao-hsien, and Kelly Reichardt. Raim's \"In Search of Ozu\" premiered on the Criterion Channel to rave reviews in 2018. In 2019 Raim directed and produced ​the TCM Original Documentary \"Image Makers: The Adventures of America's Pioneer Cinematographers.\" Raim's fourth documentary feature, \"Fiddler's Journey to the Big Screen,\" will be released in Spring 2022 by Zeitgeist Films in association with Kino Lorber.\n\nRaim has screened his films and lectured at: Academy of Motion Picture Arts and Sciences, HOT DOCS, Cannes Film Festival, DOC NYC, Hot Springs Documentary Film Festival, AFI Conservatory: Harold Lloyd Master Seminar, Walt Disney Studios, Pixar Animation Studios, ILM, DreamWorks Animation SKG, Sony Animation Studios, and Canadian Film Center/TIFF Bell Lightbox, among others.  Raim has a passion for education, and in 2016 he embarked on an academic tour through India, where he screened his films and lectured on and the art and craft of documentary filmmaking. In 2017, Daniel partnered with Desktop-Documentaries.com and created an online course entitled: Documentary Storytelling and Scriptwriting.",
-      "director_known_for": "[\"Fiddler's Journey to the Big Screen (2022)\", \"Aki and Peter (2018)\", \"Inventing \\\"Andrei Rublev\\\" (2018)\", \"Image Makers: The Adventures of America's Pioneer Cinematographers (2019)\", \"Beautified Realism: The Making of 'Flowers of Shanghai' (2021)\"]",
+      "director_known_for": "[\"Fiddler's Journey to the Big Screen (2022)\", \"Inventing \\\"Andrei Rublev\\\" (2018)\", \"Aki and Peter (2018)\", \"Beautified Realism: The Making of 'Flowers of Shanghai' (2021)\", \"Harold and Lillian: A Hollywood Love Story (2017)\"]",
       "director_source_url": "https://www.themoviedb.org/person/1046739"
     },
     {
       "movie_title": "トリコロール/赤の愛＜キェシロフスキ没後30年＞",
+      "title_original": null,
+      "release_year": null,
+      "runtime_minutes": null,
+      "countries": null,
+      "synopsis": null,
+      "theater_synopsis": null,
+      "director_name": null,
+      "poster_url": null,
+      "detail_director_name": null,
+      "director_biography": null,
+      "director_known_for": null,
+      "director_source_url": null
+    },
+    {
+      "movie_title": "トリコロール/白の愛＜キェシロフスキ没後30年＞",
       "title_original": null,
       "release_year": null,
       "runtime_minutes": null,
@@ -3639,23 +3731,8 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/oTvjSvuo6slnnKO2q32eNXlQcPB.jpg",
       "detail_director_name": "Gianfranco Rosi",
       "director_biography": "Gianfranco Rosi (Italian pronunciation: [dʒaɱˈfraŋko ˈrɔːzi]; born 30 November 1963) is an Italian-American documentary filmmaker. His 2013 film Sacro GRA won the Golden Lion at the 70th Venice Film Festival, while his 2016 film Fire at Sea won the Golden Bear at the 66th Berlin Film Festival. Rosi is the only documentary filmmaker to win two highest awards at the three major European film festivals (Venice, Berlin, and Cannes) and is the only director besides Michael Haneke, Ang Lee, Ken Loach, and Jafar Panahi to do so in the 21st century.\n\nHe was also nominated for an Academy Award for Best Documentary Feature for Fire at Sea.",
-      "director_known_for": "[\"旅するローマ教皇 (2022)\", \"ローマ環状線、めぐりゆく人生たち (2013)\", \"海は燃えている～イタリア最南端の小さな島 (2016)\", \"Boatman (1994)\", \"Notturno (2020)\"]",
+      "director_known_for": "[\"旅するローマ教皇 (2022)\", \"ローマ環状線、めぐりゆく人生たち (2013)\", \"Boatman (1994)\", \"海は燃えている～イタリア最南端の小さな島 (2016)\", \"Notturno (2020)\"]",
       "director_source_url": "https://www.themoviedb.org/person/224452"
-    },
-    {
-      "movie_title": "トリコロール/青の愛＜キェシロフスキ没後30年＞",
-      "title_original": null,
-      "release_year": null,
-      "runtime_minutes": null,
-      "countries": null,
-      "synopsis": null,
-      "theater_synopsis": null,
-      "director_name": null,
-      "poster_url": null,
-      "detail_director_name": null,
-      "director_biography": null,
-      "director_known_for": null,
-      "director_source_url": null
     },
     {
       "movie_title": "映画ちいかわ 人魚の島のひみつ",
@@ -3684,7 +3761,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/zxpus1lIDG7wqAuzsD0zgM6mXwM.jpg",
       "detail_director_name": "本広克行",
       "director_biography": "the Japan of the film director , TV drama and theater of the director . Born in Marugame City , Kagawa Prefecture. From 2013, he belongs to Production IG Planning Department.\n\nIn 1992, Fuji TV , a joint TV late-night drama \"of production bad directorial debut in\" [1] . Later, in the same series of omnibus drama “The World's Strange Stories ”, he directed “Let's End”. In 1996, she made her film director debut on July 7th, Sunny . \" There is no money! Directing team of as one of the\" Yuji Oda acquainted, \"by the recommendation of Oda Bayside Shakedown has been appointed as chief director of\". He directed the movie version series of this drama and won the 22nd and 27th Japan Academy Award for Excellent Director. He holds the first place in the performance of live-action Japanese paintings in the second series .\n\nStudio Ghibli (named Studio Casino ) participated in the production of “ Satrare TRIBUTE to a SAD GENIUS ” .\n\nIn April 2011, he became a visiting professor at Shikoku Gakuin University “Body Expression and Performing Arts Management Major” (abbreviation: “Drama Course”). In October 2012, he made his debut as director of the animated film “ PSYCHO-PASS ”. Since 2013, he has been the director of the film festival “ Sanuki Film Festival ” in his hometown Kagawa Prefecture .",
-      "director_known_for": "[\"劇場版 PSYCHO-PASS サイコパス (2015)\", \"亜人 (2017)\", \"UDON (2006)\", \"踊る大捜査線 THE MOVIE (1998)\", \"サトラレ sato;ra-re TRIBUTE to a SAD GENIUS (2001)\"]",
+      "director_known_for": "[\"亜人 (2017)\", \"劇場版 PSYCHO-PASS サイコパス (2015)\", \"踊る大捜査線 THE MOVIE (1998)\", \"UDON (2006)\", \"サトラレ sato;ra-re TRIBUTE to a SAD GENIUS (2001)\"]",
       "director_source_url": "https://www.themoviedb.org/person/88784"
     },
     {
@@ -3789,7 +3866,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vxvYpq92BRYlsJmSroswNoiDbnR.jpg",
       "detail_director_name": "David Borenstein",
       "director_biography": "David Borenstein is an American documentary filmmaker. Borenstein lives and works in Copenhagen.\n\nBorenstein began his career in radio broadcasting and directed his first feature film, Dream Empire, in 2016. He spent ten years in China working on the film, shooting documentaries about the fringes of Chinese society. For this work, he received several nominations and won the Golden Alexander for Best Documentary at the Thessaloniki International Film Festival. In 2025, he released the documentary Mr. Nobody Against Putin, which screened in the main competition at the Sundance Film Festival.",
-      "director_known_for": "[\"Dream Empire (2016)\", \"Grosse fatigue sur le Net (2024)\", \"Superbats (2022)\", \"Love Factory: The Price of Being a Social Media Star (2021)\", \"Chinese Dreamland (2015)\"]",
+      "director_known_for": "[\"Dream Empire (2016)\", \"Chinese Dreamland (2015)\", \"Grosse fatigue sur le Net (2024)\", \"Big Dirk (2015)\", \"Superbats (2022)\"]",
       "director_source_url": "https://www.themoviedb.org/person/1387582"
     },
     {
@@ -3838,28 +3915,13 @@
       "director_source_url": "https://www.themoviedb.org/person/4994168"
     },
     {
-      "movie_title": "京都ALS患者嘱託殺人事件",
-      "title_original": "京都ALS患者嘱託殺人事件",
-      "release_year": 2026,
-      "runtime_minutes": 98,
-      "countries": "Japan",
-      "synopsis": "2020年7月、ALS（筋萎縮性側索硬化症）を患う女性からの依頼で薬物を投与し殺害したとして、2人の医師が逮捕された。ひとり暮らしの彼女は事件当時は眼球しか動かせず、24時間の介護を必要としていた。主犯の大久保愉一は、女性が“安楽死”を望む言葉を投稿していたSNSで彼女と出会っており、事前に130万円の報酬を受け取り、初対面からわずか15分ほどで殺害を実行した。捜査により過去の殺人事件への関与も浮上するなか、メディアは大久保の過去のブログなどから、彼の生命軽視の姿勢を大々的に報じた。そして2025年、嘱託殺人罪などで懲役18年の刑が確定。救命が第一義とされるはずの医師が、なぜ一線を越えて彼女を手にかけたのか。",
-      "theater_synopsis": "©『京都ALS患者嘱託殺人事件』製作委員会\n2020年7月23日、ALS（筋萎縮性側索硬化症）を患う林優里さん（当時51歳）から依頼され薬物を投与し殺害したとして、二人の医師が逮捕された。一人暮らしの彼女は事件当時、眼球しか動かせず、痰吸引や胃ろうからの食事、排せつなど24時間介護が必要だった。主犯の大久保愉一と接触したのは、彼女が“安楽死”を望む言葉を度々投稿していたSNS。大久保らは事前に報酬として130万円を受け取り、初対面からわずか15分程度で殺害を実行した。さらに捜査で過去の殺人事件への関与も浮上。メディアは大久保の過去のブログなどから「ドクター・キリコ」への憧れや生命軽視の姿勢を大々的に報じ、〈狂った医者〉〈優生思想の殺人鬼〉と苛烈に非難。世間もまたそれに同調し責め立てた。そして25年、嘱託殺人罪などで懲役18年の刑が確定した。救命が第一義とされる医師の男は、なぜ一線を越え彼女を手にかけたのか？\n監督は、「和歌山毒物カレー事件」を検証した『マミー』(24)で自らの闇をも曝け出し鮮烈な印象を残した二村真弘。優里さんの父親、SNS上での彼女を知る元看護師や難病当事者、医療とケアの専門家たちへの取材を重ね、彼女の人生を掘り下げていく。そのなかで見えてきた制度の未熟さ。明らかになる外界から完全に遮断されるかもしれない恐怖、そして、身体が訴え続ける生への渇望。一方で二村は、大久保の半生を辿るべく、母親やかつての医師仲間を訪ねる。さらに供述分析を独自に実施し、大久保が収監される大阪拘置所へ――。\n「死にたい」、その言葉の奥にあるもの。ひとりの女性の声が受け止められない社会の空白地帯で、死の直前まで続いた二人だけのやり取り。私たちが目を背け続けている何かが、未公開のDMとそれぞれが語る“事実”から浮かび上がってくる。\n亡くなった林優里さんと逮捕された医師の大久保愉一、二人が事件直前まで交わしたダイレクトメッセージを初めて目にしたとき、私は大きな衝撃を受けた。死へ向かうメッセージの交換には、二人がまるで旅行の計画でも立てているかのような、不思議な軽やかさが漂っていた。この最期の対話は、それまでの「悲惨な被害者」と「冷酷な加害者」という単純な事件像を覆す力を持っていた。二人はなぜこの結末に辿り着いたのか。真相を解き明かしたい一心で、私は取材を重ねてきた。「死にたい」という声を覆い隠す社会は、同時に「生きたい」という訴えも無いものにする可能性を孕んでいるのではないだろうか。\n私たちは日々、テレビや新聞、雑誌などを通して数多くの事件を知るが、時間の経過とともにそれらを他人事として忘れていってしまう。今回の映画では、事件そのものだけでなく、事件の当事者となってしまった二人が、それまでにたどった時間も丁寧に見つめた。すると事件は普遍性を帯び、自分とつながる要素がいくつもあることに気づいた。自分が林優里さんだったらどうしたか。自分が大切な人から「死にたい」と言われたらどうするか。多くの人にとってそれが自分事になったとき、議論が深まっていくのだろうと思う。\nhttps://digtvmovie.jp/\nより多くのお客様に映画をお楽しみいただくために、スクリーンに字幕を表示する日本語字幕付き上映を限定日時に実施いたします。\n10月31日(土) 12:20／ 14:50／18:45\n11月1日(日)  12:30[字]／14:35／16:40\n11月2日(月),3日(火祝) 12:50[字 ※3日のみ]／14:55／18:45\n11月4日(水) 12:30／14:35／18:45\n11月5日(木),6日(金) 12:50[字 ※5日のみ]／14:55／18:45\n11月7日(土)　10:00[字]／12:00／16:20\n11月8日(日)  12:20／14:25／19:55\n11月9日(月)　12:15[字]／14:15／20:25\n11月10日(火) 12:20／14:15／18:35\n11月12日(木) 12:20／14:15／18:35\n11月13日(金) 12:20／14:25／19:20\n11月11日(水)および14日(土)以降の上映時間は後日発表\n一般2,000円／大学・専門学校生・シニア1,400円／会員1,300円☆\n火曜サービスデー 1,300円／1日サービスデー 1,100円\n年会費1000円（30歳未満は 500円 ）で一般料金から【700円】割引\n10月31日(土)　12:20の回＆14:50の回上映後舞台挨拶\nゲスト：二村真弘監督・石川朋子プロデューサー\n11月4日(水)　18:45の回上映後 二村真弘監督によるティーチイン\n11月10日(火)　18:35の回上映後 トークイベント\nゲスト：森達也さん（映画監督・作家）、二村真弘監督\n© 2017 EUROSPACE All Rights Reserved.",
-      "director_name": "二村真弘",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sQ8zvmDBuiNcPQrAwCSIf7YPlpy.jpg",
-      "detail_director_name": "二村真弘",
-      "director_biography": null,
-      "director_known_for": "[\"マミー\"]",
-      "director_source_url": "https://www.themoviedb.org/person/4851038"
-    },
-    {
       "movie_title": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
       "title_original": "愛し合ってるかい？ 忌野清志郎が教えてくれた",
       "release_year": 2026,
       "runtime_minutes": null,
       "countries": "Japan",
       "synopsis": "愛と反骨を胸に日本の音楽シーンに変革をもたらした忌野清志郎の軌跡をたどり、その比類なき表現の真髄に迫ったドキュメンタリー。RCサクセションのメンバーとしてデビューし、圧倒的なライブパフォーマンスなどで人気を集めた彼の、膨大なアーカイブから厳選された映像を通して、唯一無二のパフォーマンスと“信念を貫く姿勢”を多面的に掘り下げていく。",
-      "theater_synopsis": "＞ 愛し合ってるかい？ 忌野清志郎が教えてくれた\n愛し合ってるかい？ 忌野清志郎が教えてくれた\nここには、今こそ耳を傾けるべき歌がある。\n©2026 Kiyoshiro Movie Project\nRCサクセションのメンバーとしてデビューし、数々の名曲を世に送り出してきた忌野清志郎。圧倒的なライブ・パフォーマンスでも伝説を築き上げ、「KING OF ROCK」の名を不動のものとした。\n1991年のRCサクセション活動休止後も、ソロやTHE TIMERSでの音楽活動\nに加え、映画・ドラマ出演、絵本の執筆、さらにはサイクリストとしての顔も持つなど、多岐にわたる表現活動を展開。常に時代と向き合いながら走り続けた。\n本作は、愛と反骨を胸に日本の音楽シーンに変革をもたらした忌野清志郎の軌跡を辿り、その比類なき表現の真髄に迫る、デビュー55周年記念ドキュメンタリーである。\nレコーディング風景や社会への鋭い眼差し、そして世間を騒がせた数々の出来事。本作では、彼の「信念を貫く姿勢」と「唯一無二のパフォーマンス」を多面的に深く掘り下げる。膨大なアーカイブから厳選された映像は、ファンにとっては珠玉の記録であり、彼を知らない世代にとっては最良の入門となるはずだ。\n魂を揺さぶるライブ映像、創作の源泉を照れながら語る貴重な言葉の数々――それらを縦横無尽に織り上げることで、「ひとりの人間・忌野清志郎」の実像が浮かび上がる。\n監督は、『トノバン 音楽家 加藤和彦とその時代』（24）を手掛けた相原裕美。音楽家の人生と時代を丁寧にすくい上げるその手腕は高く評価されており、本作でも深い敬意と洞察をもって清志郎の魅力に迫る。\n媚びない、好きを貫く――世代を超えて愛される忌野清志郎。\nその彼が、音楽愛と夢を抱くことの尊さを歌に、言葉に託したメッセージ。\nその飾らない、まっすぐな歌声と言葉は現代を生きる人々に明日への勇気をあたえる“無敵のエール”となる。\nhttps://www.toei-video.co.jp/kiyoshiro-movie/\n10月2日(金)　12:40/ 15:05/ 17:30\n10月3日(土),4日(日)　12:50/ 15:20/ 17:50\n10月5日(月)　12:30/ 14:55/ 18:35\n10月6日(火)～9日(金)　12:35/ 15:05/ 17:35\n10月10日(土)  9:50/ 12:15/ 17:00\n10月11日(日),12日(月) 10:15/ 12:45/ 17:05\n10月13日(火)～16日(金) 10:10/ 12:40/ 17:25\n10月17日(土)　9:50 / 12:15/ 15:00\n10月18日(日)　10:25/ 12:55/ 15:25\n10月19日(月)～23日(金)　10:00/ 12:40/ 15:10\n10月24日(土)　10:15/15:55\n10月25日(日)　9:50/17:15\n10月26日(月)～30日(金)　10:45/15:45\n10月31日(土) 9:50/ 14:10\n11月1日(日) 10:00/ 14:10\n11月2日(月),3日(火祝) 10:20/ 17:00\n11月4日(水)  10:00/ 14:45\n11月5日(木),6日(金) 10:20/ 17:00\n11月8日(日),13日(金) 10:00\n11月10日(火),12日(木) 9:50\n11月11日(水)および11月14日(土)以降のスケジュールは後日発表\n© 2017 EUROSPACE All Rights Reserved.",
+      "theater_synopsis": "＞ 愛し合ってるかい？ 忌野清志郎が教えてくれた\n愛し合ってるかい？ 忌野清志郎が教えてくれた\nここには、今こそ耳を傾けるべき歌がある。\n©2026 Kiyoshiro Movie Project\nRCサクセションのメンバーとしてデビューし、数々の名曲を世に送り出してきた忌野清志郎。圧倒的なライブ・パフォーマンスでも伝説を築き上げ、「KING OF ROCK」の名を不動のものとした。\n1991年のRCサクセション活動休止後も、ソロやTHE TIMERSでの音楽活動\nに加え、映画・ドラマ出演、絵本の執筆、さらにはサイクリストとしての顔も持つなど、多岐にわたる表現活動を展開。常に時代と向き合いながら走り続けた。\n本作は、愛と反骨を胸に日本の音楽シーンに変革をもたらした忌野清志郎の軌跡を辿り、その比類なき表現の真髄に迫る、デビュー55周年記念ドキュメンタリーである。\nレコーディング風景や社会への鋭い眼差し、そして世間を騒がせた数々の出来事。本作では、彼の「信念を貫く姿勢」と「唯一無二のパフォーマンス」を多面的に深く掘り下げる。膨大なアーカイブから厳選された映像は、ファンにとっては珠玉の記録であり、彼を知らない世代にとっては最良の入門となるはずだ。\n魂を揺さぶるライブ映像、創作の源泉を照れながら語る貴重な言葉の数々――それらを縦横無尽に織り上げることで、「ひとりの人間・忌野清志郎」の実像が浮かび上がる。\n監督は、『トノバン 音楽家 加藤和彦とその時代』（24）を手掛けた相原裕美。音楽家の人生と時代を丁寧にすくい上げるその手腕は高く評価されており、本作でも深い敬意と洞察をもって清志郎の魅力に迫る。\n媚びない、好きを貫く――世代を超えて愛される忌野清志郎。\nその彼が、音楽愛と夢を抱くことの尊さを歌に、言葉に託したメッセージ。\nその飾らない、まっすぐな歌声と言葉は現代を生きる人々に明日への勇気をあたえる“無敵のエール”となる。\nhttps://www.toei-video.co.jp/kiyoshiro-movie/\n10月2日(金)　12:40/ 15:05/ 17:30\n10月3日(土),4日(日)　12:50/ 15:20/ 17:50\n10月5日(月)　12:30/ 14:55/ 18:35\n10月6日(火)～9日(金)　12:35/ 15:05/ 17:35\n10月10日(土)  9:50/ 12:15/ 17:00\n10月11日(日),12日(月) 10:15/ 12:45/ 17:05\n10月13日(火)～16日(金) 10:10/ 12:40/ 17:25\n10月17日(土)　9:50 / 12:15/ 15:00\n10月18日(日)　10:25/ 12:55/ 15:25\n10月19日(月)～23日(金)　10:00/ 12:40/ 15:10\n10月24日(土)　10:15/15:55\n10月25日(日)　9:50/17:15\n10月26日(月)～30日(金)　10:45/15:45\n10月31日(土) 9:50/ 14:10\n11月1日(日) 10:00/ 14:10\n11月2日(月),3日(火祝) 10:20/ 17:00\n11月4日(水)  10:00/ 14:45\n11月5日(木),6日(金) 10:20/ 17:00\n11月8日(日),11日(水),13日(金) 10:00\n11月10日(火),12日(木) 9:50\n11月14日(土)以降のスケジュールは後日発表\n© 2017 EUROSPACE All Rights Reserved.",
       "director_name": null,
       "poster_url": "https://image.tmdb.org/t/p/w500/d6SMs485koXn7gGrCLSYuwMKQ5i.jpg",
       "detail_director_name": null,
@@ -3868,18 +3930,33 @@
       "director_source_url": null
     },
     {
+      "movie_title": "京都ALS患者嘱託殺人事件",
+      "title_original": "京都ALS患者嘱託殺人事件",
+      "release_year": 2026,
+      "runtime_minutes": 98,
+      "countries": "Japan",
+      "synopsis": "2020年7月、ALS（筋萎縮性側索硬化症）を患う女性からの依頼で薬物を投与し殺害したとして、2人の医師が逮捕された。ひとり暮らしの彼女は事件当時は眼球しか動かせず、24時間の介護を必要としていた。主犯の大久保愉一は、女性が“安楽死”を望む言葉を投稿していたSNSで彼女と出会っており、事前に130万円の報酬を受け取り、初対面からわずか15分ほどで殺害を実行した。捜査により過去の殺人事件への関与も浮上するなか、メディアは大久保の過去のブログなどから、彼の生命軽視の姿勢を大々的に報じた。そして2025年、嘱託殺人罪などで懲役18年の刑が確定。救命が第一義とされるはずの医師が、なぜ一線を越えて彼女を手にかけたのか。",
+      "theater_synopsis": "©『京都ALS患者嘱託殺人事件』製作委員会\n2020年7月23日、ALS（筋萎縮性側索硬化症）を患う林優里さん（当時51歳）から依頼され薬物を投与し殺害したとして、二人の医師が逮捕された。一人暮らしの彼女は事件当時、眼球しか動かせず、痰吸引や胃ろうからの食事、排せつなど24時間介護が必要だった。主犯の大久保愉一と接触したのは、彼女が“安楽死”を望む言葉を度々投稿していたSNS。大久保らは事前に報酬として130万円を受け取り、初対面からわずか15分程度で殺害を実行した。さらに捜査で過去の殺人事件への関与も浮上。メディアは大久保の過去のブログなどから「ドクター・キリコ」への憧れや生命軽視の姿勢を大々的に報じ、〈狂った医者〉〈優生思想の殺人鬼〉と苛烈に非難。世間もまたそれに同調し責め立てた。そして25年、嘱託殺人罪などで懲役18年の刑が確定した。救命が第一義とされる医師の男は、なぜ一線を越え彼女を手にかけたのか？\n監督は、「和歌山毒物カレー事件」を検証した『マミー』(24)で自らの闇をも曝け出し鮮烈な印象を残した二村真弘。優里さんの父親、SNS上での彼女を知る元看護師や難病当事者、医療とケアの専門家たちへの取材を重ね、彼女の人生を掘り下げていく。そのなかで見えてきた制度の未熟さ。明らかになる外界から完全に遮断されるかもしれない恐怖、そして、身体が訴え続ける生への渇望。一方で二村は、大久保の半生を辿るべく、母親やかつての医師仲間を訪ねる。さらに供述分析を独自に実施し、大久保が収監される大阪拘置所へ――。\n「死にたい」、その言葉の奥にあるもの。ひとりの女性の声が受け止められない社会の空白地帯で、死の直前まで続いた二人だけのやり取り。私たちが目を背け続けている何かが、未公開のDMとそれぞれが語る“事実”から浮かび上がってくる。\n亡くなった林優里さんと逮捕された医師の大久保愉一、二人が事件直前まで交わしたダイレクトメッセージを初めて目にしたとき、私は大きな衝撃を受けた。死へ向かうメッセージの交換には、二人がまるで旅行の計画でも立てているかのような、不思議な軽やかさが漂っていた。この最期の対話は、それまでの「悲惨な被害者」と「冷酷な加害者」という単純な事件像を覆す力を持っていた。二人はなぜこの結末に辿り着いたのか。真相を解き明かしたい一心で、私は取材を重ねてきた。「死にたい」という声を覆い隠す社会は、同時に「生きたい」という訴えも無いものにする可能性を孕んでいるのではないだろうか。\n私たちは日々、テレビや新聞、雑誌などを通して数多くの事件を知るが、時間の経過とともにそれらを他人事として忘れていってしまう。今回の映画では、事件そのものだけでなく、事件の当事者となってしまった二人が、それまでにたどった時間も丁寧に見つめた。すると事件は普遍性を帯び、自分とつながる要素がいくつもあることに気づいた。自分が林優里さんだったらどうしたか。自分が大切な人から「死にたい」と言われたらどうするか。多くの人にとってそれが自分事になったとき、議論が深まっていくのだろうと思う。\nhttps://digtvmovie.jp/\nより多くのお客様に映画をお楽しみいただくために、スクリーンに字幕を表示する日本語字幕付き上映を限定日時に実施いたします。\n10月31日(土) 12:20／ 14:50／18:45\n11月1日(日)  12:30[字]／14:35／16:40\n11月2日(月),3日(火祝) 12:50[字 ※3日のみ]／14:55／18:45\n11月4日(水) 12:30／14:35／18:45\n11月5日(木),6日(金) 12:50[字 ※5日のみ]／14:55／18:45\n11月7日(土)　10:00[字]／12:00／16:20\n11月8日(日)  12:20／14:25／19:55\n11月9日(月)　12:15[字]／14:15／20:25\n11月10日(火) 12:20／14:15／18:35\n11月11日(水) 12:20[字]／14:25／18:45\n11月12日(木) 12:20[字]／14:15／18:35\n11月13日(金) 12:20／14:25／19:20\n11月14日(土)以降の上映時間は後日発表\n一般2,000円／大学・専門学校生・シニア1,400円／会員1,300円☆\n火曜サービスデー 1,300円／1日サービスデー 1,100円\n年会費1000円（30歳未満は 500円 ）で一般料金から【700円】割引\n11月4日(水)　18:45の回上映後 二村真弘監督によるティーチイン\n11月10日(火)　18:35の回上映後 トークイベント\nゲスト：森達也さん（映画監督・作家）、二村真弘監督\n10月31日(土)　12:20の回＆14:50の回上映後舞台挨拶\nゲスト：二村真弘監督・石川朋子プロデューサー\n© 2017 EUROSPACE All Rights Reserved.",
+      "director_name": "二村真弘",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sQ8zvmDBuiNcPQrAwCSIf7YPlpy.jpg",
+      "detail_director_name": "二村真弘",
+      "director_biography": null,
+      "director_known_for": "[\"マミー\"]",
+      "director_source_url": "https://www.themoviedb.org/person/4851038"
+    },
+    {
       "movie_title": "魂のきせき",
       "title_original": "魂のきせき",
       "release_year": 2025,
       "runtime_minutes": 97,
       "countries": "Japan",
       "synopsis": null,
-      "theater_synopsis": "映画監督の小林茂は、性暴力のサバイバーであることを公にして活動を続ける一人の写真家との出会いをきっかけに、本作の製作を決意する。大切な友人が、幼少期に受けた性虐待によるPTSDで長年苦しむ姿を見ていたからだ。やがてカメラは、それぞれ異なる痛みを抱えながら生きるサバイバーたちへと向けられていく。悔恨、怒り、うつ、不眠、解離、自傷、希死念慮。言葉にならない痛みとともに生きるということを、どう映すのか？\n長期化する撮影のなかで、小林は映画製作の意義を問い、自分自身の過去と向き合う。幼いころの記憶をたぐり寄せると、そこに戦争の昏い影を背負って満洲から引き揚げてきた家族との日々が浮かんだ。異なる時代、異なる出来事に刻まれた傷は、ときに遠く、ときに近く、響きあうことがあるのだろうか――。\n傑作『阿賀に生きる』（佐藤真監督）の撮影でも知られる小林茂監督が本作のキャメラを託したのは、映画作家の小田香（『セノーテ』『Underground アンダーグラウンド』）。録音に川上拓也、編集に秦岳志と現代映画を支えるシネアストが集結。出演者たちとスタッフの協働によって生まれた映画は、2025年の山形国際ドキュメンタリー映画祭、東京国際映画祭で上映され、多くの観客に驚きと深い感動をもって迎えられた。\n『魂のきせき』には２つの意味が込められている。深い傷つきとともに歩んできた魂たちの〈軌跡〉。そして、孤独な魂と魂とが、まるで地下水脈のように、とても深いところで、いつか静かにつながりあう〈奇跡〉。その〈きせき〉の先に、何があるのか？\n本作は、このかすかな希望に目を凝らし、耳を澄まし続けた、９年間の記録である。\nにのみやさをり写真展「映画『魂のきせき』によせて」\n10月24日(土)より、映画『魂のきせき』の公開を記念して、写真家であり、本作の出演者でもあるにのみやさをりさんの写真をユーロスペースのロビーに展示します。あらたに撮り下ろした作品を含む、写真家にのみやさをりの世界をぜひご覧ください。\n歌：結華　制作事務局：須藤伸彦　プロデューサー：長倉徳生、秦岳志\n助成：文化庁文化芸術振興費補助金（日本映画製作支援事業）、独立行政法人日本芸術文化振興会\n宣伝美術：成瀬慧　宣伝：高田理沙　配給協力：リガード　配給：アギィ\n日本／2025／日本語／カラー／DCP／97分\n本作品は『UDCast』方式による音声ガイド、日本語字幕に対応いたします。\nhttps://aggie-films.jp/tnk/\nより多くのお客様に映画をお楽しみいただくために、スクリーンに字幕を表示する日本語字幕付き上映を限定日時に実施いたします。\n10月24日(土)　12:15/14:45/17:20/19:25\n10月25日(日)　12:15/14:45/17:55[字]/19:55\n10月26日(月),28日(水),30日(金)　11:25/13:15/15:20/18:10\n10月27日(火),29日(木)　11:25/13:15/15:20[字]/18:10\n10月31日(土) 10:00/ 12:05/ 16:40\n11月1日(日)  10:10[字]/ 12:10/ 18:45\n11月2日(月),3日(火祝) 10:10/ 12:20/ 16:40[字 ※3日のみ]\n11月4日(水)  10:35/ 12:40/ 16:40\n11月5日(木),6日(金) 10:10/ 12:20/ 16:40[字 ※5日のみ]\n11月7日(土)  10:25/ 16:55/ 18:55[字]\n11月8日(日)  10:15/ 16:30\n11月9日(月)　10:15[字]/ 16:15\n11月10日(火) 10:25/ 16:25/ 18:25\n11月12日(木) 10:25/ 16:50/ 18:50\n11月13日(金) 10:15[字]/ 16:25/ 18:25\n11月11日(水)および14日(土)以降のスケジュールは後日発表\n一般2,000円／大学・専門学校生・シニア1,400円／会員1,300円☆\n火曜サービスデー 1,300円／1日サービスデー 1,100円\n年会費1000円（30歳未満は 500円 ）で一般料金から【700円】割引\n10月24日(土)　12:15の回上映後 初日舞台挨拶\nゲスト：にのみやさをりさん、高橋和枝さん（以上 本作出演）、小田香さん（撮影）、川上拓也さん（録音）、秦岳志さん（編集／プロデューサー）、長倉徳生さん（プロデューサー）、小林茂監督\n10月24日(土)　14:45の回上映後 初日舞台挨拶\n10月25日(日)　12:15の回上映後 舞台挨拶\nゲスト：にのみやさをりさん、高橋和枝さん（以上 本作出演）、結華さん（音楽）、小林茂監督\n10月25日(日)　14:45の回上映後 舞台挨拶\nゲスト：にのみやさをりさん、高橋和枝さん（以上 本作出演）、小林茂監督\n※各回の舞台挨拶後に、ロビーでパンフレットへのサイン会を予定しております。\n© 2017 EUROSPACE All Rights Reserved.",
+      "theater_synopsis": "映画監督の小林茂は、性暴力のサバイバーであることを公にして活動を続ける一人の写真家との出会いをきっかけに、本作の製作を決意する。大切な友人が、幼少期に受けた性虐待によるPTSDで長年苦しむ姿を見ていたからだ。やがてカメラは、それぞれ異なる痛みを抱えながら生きるサバイバーたちへと向けられていく。悔恨、怒り、うつ、不眠、解離、自傷、希死念慮。言葉にならない痛みとともに生きるということを、どう映すのか？\n長期化する撮影のなかで、小林は映画製作の意義を問い、自分自身の過去と向き合う。幼いころの記憶をたぐり寄せると、そこに戦争の昏い影を背負って満洲から引き揚げてきた家族との日々が浮かんだ。異なる時代、異なる出来事に刻まれた傷は、ときに遠く、ときに近く、響きあうことがあるのだろうか――。\n傑作『阿賀に生きる』（佐藤真監督）の撮影でも知られる小林茂監督が本作のキャメラを託したのは、映画作家の小田香（『セノーテ』『Underground アンダーグラウンド』）。録音に川上拓也、編集に秦岳志と現代映画を支えるシネアストが集結。出演者たちとスタッフの協働によって生まれた映画は、2025年の山形国際ドキュメンタリー映画祭、東京国際映画祭で上映され、多くの観客に驚きと深い感動をもって迎えられた。\n『魂のきせき』には２つの意味が込められている。深い傷つきとともに歩んできた魂たちの〈軌跡〉。そして、孤独な魂と魂とが、まるで地下水脈のように、とても深いところで、いつか静かにつながりあう〈奇跡〉。その〈きせき〉の先に、何があるのか？\n本作は、このかすかな希望に目を凝らし、耳を澄まし続けた、９年間の記録である。\nにのみやさをり写真展「映画『魂のきせき』によせて」\n10月24日(土)より、映画『魂のきせき』の公開を記念して、写真家であり、本作の出演者でもあるにのみやさをりさんの写真をユーロスペースのロビーに展示します。あらたに撮り下ろした作品を含む、写真家にのみやさをりの世界をぜひご覧ください。\n歌：結華　制作事務局：須藤伸彦　プロデューサー：長倉徳生、秦岳志\n助成：文化庁文化芸術振興費補助金（日本映画製作支援事業）、独立行政法人日本芸術文化振興会\n宣伝美術：成瀬慧　宣伝：高田理沙　配給協力：リガード　配給：アギィ\n日本／2025／日本語／カラー／DCP／97分\n本作品は『UDCast』方式による音声ガイド、日本語字幕に対応いたします。\nhttps://aggie-films.jp/tnk/\nより多くのお客様に映画をお楽しみいただくために、スクリーンに字幕を表示する日本語字幕付き上映を限定日時に実施いたします。\n10月24日(土)　12:15/14:45/17:20/19:25\n10月25日(日)　12:15/14:45/17:55[字]/19:55\n10月26日(月),28日(水),30日(金)　11:25/13:15/15:20/18:10\n10月27日(火),29日(木)　11:25/13:15/15:20[字]/18:10\n10月31日(土) 10:00/ 12:05/ 16:40\n11月1日(日)  10:10[字]/ 12:10/ 18:45\n11月2日(月),3日(火祝) 10:10/ 12:20/ 16:40[字 ※3日のみ]\n11月4日(水)  10:35/ 12:40/ 16:40\n11月5日(木),6日(金) 10:10/ 12:20/ 16:40[字 ※5日のみ]\n11月7日(土)  10:25/ 16:55/ 18:55[字]\n11月8日(日)  10:15/ 16:30\n11月9日(月)  10:15[字]/ 16:15\n11月10日(火) 10:25/ 16:25/ 18:25\n11月11日(水) 10:15[字]/ 17:05\n11月12日(木) 10:25/ 16:50/ 18:50\n11月13日(金) 10:15[字]/ 16:25/ 18:25\n11月14日(土)以降のスケジュールは後日発表\n一般2,000円／大学・専門学校生・シニア1,400円／会員1,300円☆\n火曜サービスデー 1,300円／1日サービスデー 1,100円\n年会費1000円（30歳未満は 500円 ）で一般料金から【700円】割引\n10月24日(土)　12:15の回上映後 初日舞台挨拶\nゲスト：にのみやさをりさん、高橋和枝さん（以上 本作出演）、小田香さん（撮影）、川上拓也さん（録音）、秦岳志さん（編集／プロデューサー）、長倉徳生さん（プロデューサー）、小林茂監督\n10月24日(土)　14:45の回上映後 初日舞台挨拶\n10月25日(日)　12:15の回上映後 舞台挨拶\nゲスト：にのみやさをりさん、高橋和枝さん（以上 本作出演）、結華さん（音楽）、小林茂監督\n10月25日(日)　14:45の回上映後 舞台挨拶\nゲスト：にのみやさをりさん、高橋和枝さん（以上 本作出演）、小林茂監督\n※各回の舞台挨拶後に、ロビーでパンフレットへのサイン会を予定しております。\n© 2017 EUROSPACE All Rights Reserved.",
       "director_name": "Shigeru Kobayashi",
       "poster_url": "https://image.tmdb.org/t/p/w500/35LGDJy0WWukDqek4xGzFGfwOaV.jpg",
       "detail_director_name": "Shigeru Kobayashi",
       "director_biography": null,
-      "director_known_for": "[\"風の波紋 (2015)\", \"チョコラ！ (2009)\", \"こどものそら (2000)\", \"わたしの季節 (2005)\", \"ちょっと青空 (2001)\"]",
+      "director_known_for": "[\"わたしの季節 (2005)\", \"こどものそら (2000)\", \"風の波紋 (2015)\", \"チョコラ！ (2009)\", \"ちょっと青空 (2001)\"]",
       "director_source_url": "https://www.themoviedb.org/person/1793071"
     },
     {
@@ -3911,21 +3988,6 @@
       "director_biography": null,
       "director_known_for": "[]",
       "director_source_url": "https://www.themoviedb.org/person/2381621"
-    },
-    {
-      "movie_title": "トリコロール/白の愛＜キェシロフスキ没後30年＞",
-      "title_original": null,
-      "release_year": null,
-      "runtime_minutes": null,
-      "countries": null,
-      "synopsis": null,
-      "theater_synopsis": null,
-      "director_name": null,
-      "poster_url": null,
-      "detail_director_name": null,
-      "director_biography": null,
-      "director_known_for": null,
-      "director_source_url": null
     },
     {
       "movie_title": "メモリィズ",
@@ -3969,7 +4031,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1prf5Qob2ZRCFWp6XHvVSey8G6e.jpg",
       "detail_director_name": "ヨルゴス・ランティモス",
       "director_biography": "ギリシャ・アテネ出身。アテネの映画学校で映像演出を学ぶ。2005年、初の長編監督・脚本作「Kinetta（原題）」を発表。続く不条理コメディ「籠の中の乙女」（09）でカンヌ国際映画祭のある視点部門でグランプリを受賞、アカデミー外国語映画賞にノミネートされ、独特の世界観と映像美で一躍国際的に注目を浴びる。長編監督第3作「Alpis（英題：Alps）」（11）はベネチア国際映画祭で最優秀脚本賞を受賞。初の英語作品「ロブスター」（15）はカンヌ国際映画祭審査員賞に輝き、アカデミー脚本賞にノミネートされた。同作に主演したコリン・ファレルと再タッグを組んだ「聖なる鹿殺し　キリング・オブ・ア・セイクリッド・ディア」（17）でカンヌ国際映画祭の脚本賞を受賞。英国王室の愛憎劇を描いた「女王陛下のお気に入り」（18）はアカデミー賞9部門にノミネートされた。",
-      "director_known_for": "[\"哀れなるものたち (2023)\", \"女王陛下のお気に入り (2018)\", \"聖なる鹿殺し キリング・オブ・ア・セイクリッド・ディア (2017)\", \"憐れみの３章 (2024)\", \"ロブスター (2015)\"]",
+      "director_known_for": "[\"哀れなるものたち (2023)\", \"聖なる鹿殺し キリング・オブ・ア・セイクリッド・ディア (2017)\", \"女王陛下のお気に入り (2018)\", \"ロブスター (2015)\", \"憐れみの３章 (2024)\"]",
       "director_source_url": "https://www.themoviedb.org/person/122423"
     },
     {
@@ -3989,6 +4051,21 @@
     },
     {
       "movie_title": "地球を守れ！ 4Kレストア版",
+      "title_original": null,
+      "release_year": null,
+      "runtime_minutes": null,
+      "countries": null,
+      "synopsis": null,
+      "theater_synopsis": null,
+      "director_name": null,
+      "poster_url": null,
+      "detail_director_name": null,
+      "director_biography": null,
+      "director_known_for": null,
+      "director_source_url": null
+    },
+    {
+      "movie_title": "トリコロール/青の愛＜キェシロフスキ没後30年＞",
       "title_original": null,
       "release_year": null,
       "runtime_minutes": null,
@@ -4029,7 +4106,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/uTeYg3RPKlGYbyvEYKq5Ht5QGch.jpg",
       "detail_director_name": "محسن مخملباف",
       "director_biography": "From Wikipedia, the free encyclopedia.\n\nMohsen Makhmalbaf (Mohsen Mäxmälbaf, born May 29, 1957) is an Iranian film director, writer, editor, and producer. During 2007 he was the president of Asian Film Academy.\n\nMakhmalbaf's films have been widely presented in international film festivals in the past ten years. The multi-award-winning director, belongs to the new wave movement of Iranian cinema. Time magazine selected Makhmalbaf's 2001 film, Kandahar, as one of top 100 films of all time. In 2006, he was a member of the Jury at the Venice film festival.\n\nMakhmalbaf left Iran in 2005 shortly after the election of Mahmoud Ahmadinejad and now lives in Paris. As of June 12, 2009, and following the events of the 2009 Iranian presidential election, Mohsen Makhmalbaf has claimed that he has been appointed the official spokesman of Mir-Hossein Moussavi's campaign abroad.\n\nDescription above from the Wikipedia article Mohsen Makhmalbaf, licensed under CC-BY-SA, full list of contributors on Wikipedia.​",
-      "director_known_for": "[\"Les Vacances\", \"パンと植木鉢 (1997)\", \"Baycot (1986)\", \"The Tenant (2015)\", \"ギャべ (1996)\"]",
+      "director_known_for": "[\"Les Vacances\", \"パンと植木鉢 (1997)\", \"مدرسی که بعد برد (1998)\", \"Baycot (1986)\", \"ギャべ (1996)\"]",
       "director_source_url": "https://www.themoviedb.org/person/120226"
     },
     {
@@ -4091,6 +4168,21 @@
       "director_biography": "Antoine Fuqua (born May 30, 1965) is an American director. He began his career directing music videos for artists such as Toni Braxton, Coolio, Stevie Wonder, and Prince. His first feature film was the John Woo-produced action film The Replacement Killers (1998), starring Chow Yun Fat.  He then directed the crime thriller Training Day (2001), for which star Denzel Washington won an Academy Award for Best Actor. His next films were the action war drama Tears of the Sun (2003), the Arthurian legend film King Arthur (2004), the conspiracy action thriller Shooter (2007), the crime film Brooklyn's Finest (2009), and the action thrillers Olympus Has Fallen (2013) and The Equalizer (2014), the latter of which again paired Fuqua with Denzel Washington. He has also directed the biopics Emancipation (2022), about an escaped slave named Peter, and Michael (2026), about the popstar Michael Jackson.",
       "director_known_for": "[\"トレーニング デイ (2001)\", \"イコライザー (2014)\", \"イコライザー THE FINAL (2023)\", \"マグニフィセント・セブン (2016)\", \"ザ・シューター 極大射程 (2007)\"]",
       "director_source_url": "https://www.themoviedb.org/person/20907"
+    },
+    {
+      "movie_title": "『つむぐもの』公開10周年記念上映＆トークイベント",
+      "title_original": null,
+      "release_year": 2016,
+      "runtime_minutes": null,
+      "countries": null,
+      "synopsis": null,
+      "theater_synopsis": "＞ 『つむぐもの』公開10周年記念上映＆トークイベント\n『つむぐもの』公開10周年記念上映＆トークイベント\n石倉三郎主演、映画『つむぐもの』公開から10年。\n今だからこそ、改めて伝えたい「その人らしく生きる」ということ\n妻に先立たれて一人暮らしの和紙職人・剛生（石倉三郎）の元に、ワーキングホリデーでやって来た韓国人のヨナ（キム・コッピ）。当初は日本で越前和紙作りの手伝いをするはずだったが、職人の剛生が脳腫瘍で倒れてしまい、なんと介護をすることに！　しかし、剛生は誰にも心を開かず、偏見にまみれた悪態をついてばかり。それでも勝気なヨナはひるむことなくぶつかっていき、やがて剛生の気持ちにも思いもよらぬ変化が訪れる……。\n2016年に劇場公開された映画『つむぐもの』は、越前和紙の職人として生きてきた頑固な男性・剛生（石倉三郎）と、韓国からやって来た新人介護士・ヨナ（キム・コッピ）の交流を描いた人間ドラマ。\n本作では、介護を単なる身の回りの介助として描くのではなく、介護を受ける人が「その人らしく生きること」をどう支えるのかというテーマを描いています。また、国籍も世代も性別も異なる二人の交流を通して、異なる価値観を理解し、尊重することの大切さにも触れています。\n劇場公開から10年を迎える2026年は、主演の石倉三郎さんも80歳、傘寿という節目の年。\n本イベントでは、この二つの節目を機に、本作をこれまで知らなかった若い世代を含め、より多くの人に届けるとともに、超高齢化社会が進む今、「その人らしく生きることを支えるとはどういうことか」を、世代を越えて考えるきっかけになればと思います。\n企画・運営：株式会社アナログPR／株式会社トゥーハーツ\nhttp://www.tsumugumono.com\n上映後には石倉三郎さん（本作主演）、犬童一利監督によるトークイベントがございます。\n10月8日(木)12:00よりユーロスぺース劇場受付と\n※登壇者の変更による返金は行いませんのでご了承ください。\n© 2017 EUROSPACE All Rights Reserved.",
+      "director_name": "犬童一利",
+      "poster_url": null,
+      "detail_director_name": "犬童一利",
+      "director_biography": "犬童 一利 は、日本の映画監督。",
+      "director_known_for": "[]",
+      "director_source_url": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%AB%A5%E4%B8%80%E5%88%A9"
     }
   ]
 }
